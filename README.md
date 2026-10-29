@@ -48,7 +48,7 @@ Our infrastructure and development workflow rely on industry-standard, high-perf
 ---
 
 ## 🌐 Connect With Us
-- **Server IP:** `play.nexora.net`
+- **Server IP:** `coming soon`
 - **Status:** Online (Lobby, Practice, Battleground)
 - **SMP:** In Development (Stay Tuned!)
 
