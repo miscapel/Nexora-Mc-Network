@@ -49,7 +49,7 @@ Our infrastructure and development workflow rely on industry-standard, high-perf
 
 ## 🌐 Connect With Us
 - **Server IP:** `coming soon`
-- **Status:** Online (Lobby, Practice, Battleground)
+- **Status:** Maintenance (Lobby, Practice, Battleground)
 - **SMP:** In Development (Stay Tuned!)
 
 ---
