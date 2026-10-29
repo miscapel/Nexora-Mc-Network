@@ -1,26 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=NEXORA%20NETWORK&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=High-Performance%20Minecraft%20Infrastructure%20&%20Custom%20Systems&descSize=15&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=NEXORA%20NETWORK&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Next-Generation%20Minecraft%20Infrastructure%20&%20Custom%20Systems&descSize=15&descAlignY=62" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NETWORK%20STATUS-MAINTENANCE-red?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/SERVER%20IP-COMING%20SOON-yellow?style=for-the-badge&logo=server" />
   <img src="https://img.shields.io/badge/MINECRAFT-1.21.x-blue?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/PROXY-VELOCITY-purple?style=for-the-badge&logo=proxmox" />
 </p>
 
 <p align="center">
-  <a href="#-about-nexora-network"><b>About</b></a> •
-  <a href="#-leadership--team"><b>Team</b></a> •
-  <a href="#-game-modes"><b>Game Modes</b></a> •
-  <a href="#-technology-stack"><b>Tech Stack</b></a> •
-  <a href="#-infrastructure--architecture"><b>Infrastructure</b></a>
+  <a href="#-about-nexora-network"><b>⚡ About</b></a> •
+  <a href="#-leadership--team"><b>👥 Team</b></a> •
+  <a href="#-game-modes"><b>🎮 Game Modes</b></a> •
+  <a href="#-technology-stack"><b>🛠️ Tech Stack</b></a> •
+  <a href="#-infrastructure--architecture"><b>🖥️ Architecture</b></a>
 </p>
 
 ---
 
 ## ⚡ About Nexora Network
 
-**Nexora Network** is an enterprise-grade, high-performance Minecraft network engineered from the ground up to deliver completely seamless, lag-free, and fiercely competitive gameplay experiences. By leveraging cutting-edge server software like **Paper 1.21.x** and **Velocity Proxy**, we build robust custom systems, optimized plugins, and elastic architectures designed for maximum scalability, security, and absolute reliability under heavy player loads.
+> **Nexora Network** is an enterprise-grade, high-performance Minecraft network engineered from the ground up to deliver completely seamless, lag-free, and fiercely competitive gameplay experiences. By leveraging cutting-edge server software like **Paper 1.21.x** and **Velocity Proxy**, we build robust custom systems, optimized plugins, and elastic architectures designed for maximum scalability, security, and absolute reliability under heavy player loads.
 
 ---
 
@@ -30,9 +31,9 @@ The core visionaries, architects, and developers driving Nexora Network forward:
 
 | Member | Role & Core Responsibilities | Focus Areas |
 | :--- | :--- | :--- |
-| **Itz_Mahan** | **Network Owner** | Visionary, Core Management, Financials & Resource Purchasing |
-| **miscapel** | **Network Owner & Lead Dev** | Infrastructure Engineering, Backend Systems, Custom Plugins |
-| **YasinSlayer** | **Network Manager** | Operations, Staff Coordination, Community & Game Balance |
+| **`Itz_Mahan`** | **Network Owner** | Visionary, Core Management, Financials & Resource Purchasing |
+| **`miscapel`** | **Network Owner & Lead Dev** | Infrastructure Engineering, Backend Systems, Custom Plugins |
+| **`YasinSlayer`** | **Network Manager** | Operations, Staff Coordination, Community & Game Balance |
 
 ---
 
@@ -40,15 +41,15 @@ The core visionaries, architects, and developers driving Nexora Network forward:
 
 Nexora features meticulously optimized, custom-tailored game modes designed to satisfy casual players and hardcore competitors alike:
 
-### ⚔️ 1. Practice PvP — *[ In Development ]*
+### ⚔️ 1. Practice PvP — *[ 🚧 In Development ]*
 * **Overview:** High-speed, competitive dueling arena designed to test raw mechanical skill and combat mastery.
 * **Features:** Unranked/Ranked queues, custom ladder configurations, Elo rating system, and isolated arena instances powered by multi-instance orchestration.
 
-### 🛡️ 2. Battleground
+### 🛡️ 2. Battleground — *[ 🔴 Maintenance ]*
 * **Overview:** Large-scale, action-packed combat mode featuring custom mechanics, dynamic scoring events, and objective-based gameplay.
 * **Features:** Custom abilities, team combat synergy, automated event rotations, and high-performance tick-rate optimization.
 
-### 🌲 3. SMP (Survival Multiplayer) — *[ In Development ]*
+### 🌲 3. SMP (Survival Multiplayer) — *[ 🚧 In Development ]*
 * **Overview:** A rich, immersive, and community-driven survival experience featuring deep progression mechanics.
 * **Features:** Custom economy, advanced land-claiming and protection systems, player-driven markets, and custom quests.
 
@@ -57,6 +58,10 @@ Nexora features meticulously optimized, custom-tailored game modes designed to s
 ## 🛠️ Technology Stack & Tools
 
 Our development pipeline relies on industry-standard, high-performance frameworks and programming environments:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,maven,gradle,mysql,nodejs,linux,git,idea" />
+</p>
 
 - **Core Server Softwares:** Paper (Folia-ready architectures), Velocity Proxy (Cross-network routing)
 - **Programming Languages:** Java (Core Plugins & Systems), JavaScript / TypeScript (Backend & Web Services)
